@@ -1,0 +1,86 @@
+/*coment no one will see
+*/
+body {
+	background-color: #eed5d1;
+	background-repeat: no-repeat;
+	color: #FFC09F ;
+	font-size: 18px ;
+	font-family: dosis;
+
+}
+#Navbar{
+	border-left: 20px white solid;
+	border-right:20px white solid;
+}
+
+#banner{
+background-image: url("https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+background-size: cover;
+text-align: center;
+font-size:20px;
+font-weight: lighter;
+padding: 180px;
+color: #d44775;
+border-right: 20px white solid;
+border-left: 20px white solid;
+border-bottom: 2px white solid;
+border-top: 2px white solid;
+
+
+}
+
+.container-fluid{
+	border-left: 20px white solid;
+	border-right: 20px white solid;
+
+}
+
+.section{
+	background-color: #f6e9e2;
+	color: #6d4f6c;
+	border-bottom: 2px white solid;
+	border-right: 2px white solid;
+	padding: 40px 40px 40px 40px;
+	border: 2px 2px 2px 2px;
+
+}
+a: {
+	color: #ADF7B6 ;
+	font-size:5px ;
+	font-family: Open Sans Condensed;
+}
+
+h1{
+	font-family: Satisfy;
+}
+h2{
+	font-family: Satisfy;
+}
+p {
+	font-family: Open Sans Condensed ;
+	font-family: dosis;
+	font-style: oblique;
+
+}
+footer {
+	font-family: Open Sans Condensed
+}
+
+#footer{
+	background-image: url("https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+	font-size: 15px;
+	padding: 100px 100px 10px 100px;
+	text-align: center;
+	color: #6d4f6c;
+	border-left:20px white solid;
+	border-right: 20px white solid;; 
+}
+.social{
+	color: #FFC09F;
+	font-size:32px;
+	margin: 5px;
+
+.social:hover{
+	color: white;
+	font-size:30px;
+}
